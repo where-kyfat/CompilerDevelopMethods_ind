@@ -1,0 +1,9 @@
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\bin\Debug\SimpleLang.exe.config
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\bin\Debug\SimpleLang.exe
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\bin\Debug\SimpleLang.pdb
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\bin\Debug\Microsoft.CSharp.dll
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\bin\Debug\ru\Microsoft.CSharp.resources.dll
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\obj\Debug\ParserGenerator.csproj.CopyComplete
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\obj\Debug\SimpleLang.exe
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\obj\Debug\SimpleLang.pdb
+D:\User\Документы\GitHub\mmcs-cs311-assignments-where-kyfat\Module8\obj\Debug\ParserGenerator.csprojAssemblyReference.cache

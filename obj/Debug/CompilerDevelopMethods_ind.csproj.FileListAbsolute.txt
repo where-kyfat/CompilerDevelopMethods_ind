@@ -1,0 +1,9 @@
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\obj\Debug\CompilerDevelopMethods_ind.csprojAssemblyReference.cache
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\bin\Debug\SimpleLang.exe.config
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\bin\Debug\SimpleLang.exe
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\bin\Debug\SimpleLang.pdb
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\bin\Debug\Microsoft.CSharp.dll
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\bin\Debug\ru\Microsoft.CSharp.resources.dll
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\obj\Debug\CompilerDevelopMethods_ind.csproj.CopyComplete
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\obj\Debug\SimpleLang.exe
+D:\User\Документы\GitHub\CompilerDevelopMethods_ind\obj\Debug\SimpleLang.pdb
